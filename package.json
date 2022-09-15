@@ -1,6 +1,6 @@
 {
   "name": "@shs400/reaction",
-  "version": "1.0.1",
+  "version": "1.0.1.1",
   "description": "Emoji Reaction State Management Project",
   "main": "index.ts",
   "author": "shs400 <tlagustn88@naver.com>",
