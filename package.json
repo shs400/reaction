@@ -1,0 +1,14 @@
+{
+  "name": "@shs400/reaction",
+  "version": "1.0",
+  "main": "service/index.ts",
+  "repository": "https://github.com/shs400/reaction.git",
+  "author": "shs400 <tlagustn88@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
