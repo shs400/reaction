@@ -1,13 +1,16 @@
 {
   "name": "@shs400/reaction",
   "version": "1.0.0",
-  "main": "service/index.ts",
-  "repository": "https://github.com/shs400/reaction.git",
+  "description": "Emoji Reaction State Management Project",
+  "main": "index.ts",
   "author": "shs400 <tlagustn88@naver.com>",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "keywords": ["reaction", "emoji", "icon"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shs400/reacion.git"
   },
+  "homepage": "https://github.com/shs400/reacion.git",
   "dependencies": {
     "uuid": "^9.0.0"
   },
