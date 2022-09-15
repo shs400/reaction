@@ -8,9 +8,9 @@
   "keywords": ["reaction", "emoji", "icon"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shs400/reacion.git"
+    "url": "https://github.com/shs400/reaction.git"
   },
-  "homepage": "https://github.com/shs400/reacion.git",
+  "homepage": "https://github.com/shs400/reaction.git",
   "dependencies": {
     "uuid": "^9.0.0"
   },
