@@ -1,11 +1,12 @@
 {
   "name": "@shs400/reaction",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Emoji Reaction State Management Project",
   "main": "index.ts",
   "author": "shs400 <tlagustn88@naver.com>",
   "license": "MIT",
   "keywords": ["reaction", "emoji", "icon"],
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/shs400/reaction.git"
